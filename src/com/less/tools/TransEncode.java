@@ -26,7 +26,7 @@ public class TransEncode {
 		String data = FileUtils.readFileToString(file, fromCharset);
 		System.out.println(data);
 		
-		FileUtils.writeStringToFile(file, new String(data.getBytes("GBK")),"utf-8");;
+		FileUtils.writeStringToFile(file, new String(data.getBytes("GBK")),"utf-8");
 	}
 	
 }

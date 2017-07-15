@@ -1,2 +1,2 @@
-# SmartProxy
-ไปฃ็ๆๅกๅจ(http &amp; https )
+# Tools
+ณฃำระกนคพ฿
